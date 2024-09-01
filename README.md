@@ -1,12 +1,12 @@
 # Exercise 1: Cooking up some Python
 
-In the “Taste of Python” lesson this week we have learned a few basic things in Python. Now you get your chance to demonstrate your skills.
+In the "Taste of Python" lesson this week we have learned a few basic things in Python. Now you get your chance to demonstrate your skills.
 
-This exercise is inspired by [Finland being ranked the world's happiest country for the 6th year in a row](https://yle.fi/a/74-20023112). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
+This exercise is inspired by [Finland being ranked the world's happiest country for the 7th (!) year in a row](https://edition.cnn.com/travel/worlds-happiest-countries-2024-wellness/index.html) (you can [explore the ranking data](https://public.tableau.com/views/2024Draft/Figure2_1?:language=en-US&:embed=y&:sid=&:redirect=auth&:embed_code_version=3&:loadOrderID=0&:display_count=y&:origin=viz_share_link) if you like). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
 
 ## Problem 0 - Filling out the pre-course survey
 
-Before you get started with the exercise, we ask that you **please fill out the Geo-Python/AutoGIS pre-course survey at https://elomake.helsinki.fi/lomakkeet/125237/lomake.html**. Your responses will help shape how we teach this autumn!
+Before you get started with the exercise, we ask that you **please fill out the Geo-Python/AutoGIS pre-course survey at https://elomake.helsinki.fi/lomakkeet/131060/lomake.html**. Your responses will help shape how we teach this autumn!
 
 ## Problem 1 - Creating your own Jupyter notebook
 
@@ -68,8 +68,11 @@ I am Dave Whipp and my sleeping enjoyment rating is 8 / 10!
 Based on the factors above, my happiness rating is 8.5 out of 10, or 85.0 %!
 ```
 
-Note that your code should replace “Dave” with the contents of your `first_name` variable, “9” with your value stored in the variable `ice_cream_rating`, etc. For your equivalent text with the full name (e.g., "Dave Whipp"), you can either use the values from the variables `first_name` and `last_name`, or the value in variable `my_name`.
+Note that your code should replace "Dave" with the contents of your `first_name` variable, "9" with your value stored in the variable `ice_cream_rating`, etc. For your equivalent text with the full name (e.g., "Dave Whipp"), you can either use the values from the variables `first_name` and `last_name`, or the value in variable `my_name`.
 
 ## Finishing the exercise
 
-To complete this exercise, download your notebook to your computer and upload it to GitHub in your **own** Exercise 1 repository that you created using the GitHub Classroom link.
+To complete this exercise
+
+1. Download your notebook to your computer, and
+2. Upload it to GitHub in your **own** Exercise 1 repository that you created using the GitHub Classroom link.
