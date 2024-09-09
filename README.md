@@ -76,3 +76,7 @@ To complete this exercise
 
 1. Download your notebook to your computer, and
 2. Upload it to GitHub in your **own** Exercise 1 repository that you created using the GitHub Classroom link.
+
+## Self assessment from week 1
+
+I think I did well during the first week of Geo-Python.
